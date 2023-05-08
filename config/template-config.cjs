@@ -20,6 +20,12 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
+      日出时间：{{sunrise.DATE}}
+      
+      日落时间：{{sunset.DATE}}
+      
+      温习提示：{{notice.DATE}}
+      
       {{comprehensive_horoscope.DATA}}
       
       ---
